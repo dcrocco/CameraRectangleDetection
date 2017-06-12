@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraRectangleDetection</string>
+    <string name="photo">Sacar foto</string>
+</resources>
